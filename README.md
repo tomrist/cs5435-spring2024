@@ -20,7 +20,7 @@ Office hours: By appointment
 
 TAs: Marina Bohuk (ms3499@cornell.edu), Alaa Daffalla (alaadaffalla@cs.cornell.edu)
 
-Office hours: TBA
+Office hours: Fridays 4PM EST at Bloomberg 256
 
 
 ### Course online resources
